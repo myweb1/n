@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../trinangule dash"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "naezam"
+	}
+}
